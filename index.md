@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 - The instructor is great, funny.
 - The instructor is extremely great, funny.
--The instructor will be understanding when they see my bland website.
+- The instructor will be understanding when they see my bland website.
 
 
 
@@ -24,10 +24,8 @@ Syntax highlighted code block
 3. The instructor will be understanding when they see my bland website.
 
 
-
-**Chau** and _Pham_ and `Hi` text
 ```
-
+**Chau** _Pham_ 'say hi'
 ![Gangster cat](https://github.com/Purdue-CS193/homework-0-brumbrum108/blob/4df5c60465a0e15e567ef973b9de63721feb9d69/gangcat.jpeg)
 
 
