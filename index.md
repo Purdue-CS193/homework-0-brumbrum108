@@ -12,6 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # CHAU PHAM's First CS193 Homework
+## HI
+### WELCOME !!!
+
 
 - The instructor is great, funny.
 - The instructor is extremely great, funny.
@@ -22,7 +25,6 @@ Syntax highlighted code block
 1. The instructor is great, funny.
 2. The instructor is extremely great, funny.
 3. The instructor will be understanding when they see my bland website.
-
 
 ```
 **Chau** _Pham_ 'say hi'
