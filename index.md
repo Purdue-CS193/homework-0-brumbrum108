@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 
 
-**Bold** and _Italic_ and `Code` text
+**Chau** and _Pham_ and `Hi` text
 
 [Gangster cat](blob:https://www.facebook.com/2d70b9ac-c044-4367-8c4d-2e0286c806ee)
 ```
