@@ -27,7 +27,7 @@ Syntax highlighted code block
 
 **Chau** and _Pham_ and `Hi` text
 
-![Gangster cat](https://github.com/Purdue-CS193/homework-0-brumbrum108/blob/master/gangcat.jpeg?raw=true))
+![Gangster cat](https://github.com/Purdue-CS193/homework-0-brumbrum108/blob/master/gangcat.jpeg?raw=true)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
